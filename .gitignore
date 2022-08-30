@@ -1,3 +1,5 @@
+.dccache
+
 # Local .terraform directories
 **/.terraform/*
 .idea
