@@ -1,3 +1,4 @@
+# default mysql rds
 resource "aws_db_instance" "default" {
   name                   = var.dbname
   engine                 = "mysql"
